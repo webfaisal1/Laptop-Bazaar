@@ -1,0 +1,17 @@
+.cart{
+  width: 100%;
+  height: 220px;
+}
+.card{
+  padding: 15px;
+  border-radius: 10px;
+}
+.btn-cart{
+  border: none;
+  bottom: 0.2rem;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+.cart-details{
+  min-height: 500px;
+}

@@ -1,0 +1,74 @@
+[
+  {
+  "id": "4574",
+  "name": "Lenovo Chromebook S330 Laptop",
+  "price": 199,
+  "img": "https://m.media-amazon.com/images/I/61ViOMIUhmL._AC_UY218_.jpg"
+ },
+  {
+  "id": "4575",
+  "name": "Acer Chromebook 314 Laptop",
+  "price": 257,
+  "img": "https://m.media-amazon.com/images/I/71Erq-PlhhL._AC_UY218_.jpg"
+ },
+  {
+  "id": "4576",
+  "name": "Acer Chromebook Spin 311 Convertible Laptop",
+  "price": 279,
+  "img": "https://m.media-amazon.com/images/I/71c5W9NxN5L._AC_UY218_.jpg"
+ },
+  {
+  "id": "4577",
+  "name": "Acer Predator Helios 300 PH315-54-760S Gaming Laptop",
+  "price": 1272,
+  "img": "https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_UY218_.jpg"
+ },
+  {
+  "id": "4578",
+  "name": "HP Stream 14-inch Laptop",
+  "price": 231,
+  "img": "https://m.media-amazon.com/images/I/81RCOr3hJOL._AC_UY218_.jpg"
+ },
+  {
+  "id": "4579",
+  "name": "Lenovo IdeaPad 3 11 Chromebook Laptop",
+  "price": 169,
+  "img": "https://m.media-amazon.com/images/I/71XIwK5G75L._AC_UY218_.jpg"
+ },
+  {
+  "id": "4580",
+  "name": "Google Pixelbook Chromebook Laptop",
+  "price": 803,
+  "img": "https://m.media-amazon.com/images/I/81sDDc7rKqL._AC_UY218_.jpg"
+ },
+  {
+  "id": "4581",
+  "name": "Acer Nitro 5 AN515-55-53E5 Gaming Laptop",
+  "price": 936,
+  "img": "https://m.media-amazon.com/images/I/81bc8mA3nKL._AC_SX425_.jpg"
+ },
+  {
+  "id": "4582",
+  "name": "Lenovo IdeaPad 1 (14”, Intel) Laptop",
+  "price": 323,
+  "img": "https://m.media-amazon.com/images/I/71hhgeQCrOL._AC_SX425_.jpg"
+ },
+  {
+  "id": "4583",
+  "name": "ASUS VivoBook 15 OLED K513 Thin & Light Laptop",
+  "price": 197,
+  "img": "https://m.media-amazon.com/images/I/810JYMXVRuL._AC_SX569_.jpg"
+ },
+  {
+  "id": "4584",
+  "name": "HP Stream 14 inches Laptop",
+  "price": 719,
+  "img": "https://m.media-amazon.com/images/I/7189iXimfWL._AC_UY218_.jpg"
+ },
+  {
+  "id": "4585",
+  "name": "MSI GL66 Gaming Laptop",
+  "price": 1259,
+  "img": "https://m.media-amazon.com/images/I/61Ze2wc9nyS._AC_SX425_.jpg"
+ }
+]
